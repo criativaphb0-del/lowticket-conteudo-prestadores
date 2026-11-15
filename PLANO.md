@@ -57,4 +57,5 @@ Sem orçamento e sem contatos de psicólogas/nutricionistas, a validação é **
 ## Status
 - [x] Pasta, pesquisa, ranking
 - [x] Reanálise e decisão (v2)
-- [ ] Etapas 1–10
+- [x] Etapa 1 (público) · [x] Etapa 2 (oferta)
+- [ ] Etapas 3–10
