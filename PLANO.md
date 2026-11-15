@@ -43,13 +43,16 @@ Registro externo (`npx skills find`, 14 buscas): **nenhum resultado**. Busca de 
 
 **Conectores não instalados que ajudariam (opcional):** Metricool (agendar posts), vidIQ (outliers de reels/TikTok), MyChatBot ou Supersei CRM (atendimento/WhatsApp). Só se o gate de validação passar.
 
-## 4. Ordem e gate (sem verba de teste)
-Não há orçamento para validar com anúncio. **Todo gasto em mídia só acontece no lançamento oficial.** A validação passa a ser orgânica e custo zero:
-1. Etapas 1 → 2 → 5 → 6 (público, oferta, isca, página de vendas) e 7 (criativos prontos, sem veicular).
-2. **Pré-venda orgânica (gate):** abordagem direta por DM/WhatsApp a psicólogas e nutricionistas da rede da Jecika, com oferta de fundadoras (preço de lançamento, entrega em 7 dias). Skills: `pitch-conversao-local`, `prospeccao-clinicas-chrome` (adaptar). CRM no Trello.
-3. **Teste de interesse no orgânico:** 3–5 posts/reels no Instagram da Criativa sobre o tema, com chamada para a isca (lead magnet). Leitura via Windsor.ai (alcance, salvamentos, cliques, DMs).
-4. **Critério de passagem (sugestão, ajustável):** ao menos 5 pré-vendas pagas ou 30 leads na isca em 14 dias. Passou → produzir o pack completo (etapas 3, 4, 8, 9) e lançar com verba oficial. Não passou → ajustar oferta ou perfil (fase 2: automação/IA) sem ter gasto mídia.
-5. **Lançamento oficial:** campanha Meta estruturada com `marketing:campaign-plan` e medida na etapa 10. Criativos da etapa 7 já prontos.
+## 4. Ordem e gate (sem verba e sem rede no nicho)
+Sem orçamento e sem contatos de psicólogas/nutricionistas, a validação é **orgânica e por abordagem fria**. Mídia paga só no lançamento oficial.
+1. Etapas 1 → 2 → 5 → 6 (público, oferta, isca, página) e 7 (criativos prontos, sem veicular).
+2. **Pré-venda por abordagem fria no Instagram (canal principal):** lista de perfis de psicólogos/nutricionistas que atendem online, aquecimento (curtir/comentar), DM de pergunta única, oferta de fundadoras. Skills: `prospeccao-clinicas-chrome` e `pitch-conversao-local` (adaptar). CRM no Trello.
+3. **Isca distribuída sem anúncio:** DM, comentários úteis, grupos e comunidades da área. Medição por cliques/respostas no Trello e Windsor.ai.
+4. **Conteúdo orgânico:** 3–5 posts/reels sobre o tema. Atenção: o Instagram da Criativa fala com donos de negócio, não com profissionais de saúde; o alcance nesse público tende a ser baixo. Avaliar um perfil dedicado ao produto.
+5. **Critério de passagem (aprovado):** 5 pré-vendas pagas **ou** 30 leads na isca em 14 dias. Passou → pack completo (etapas 3, 4, 8, 9) e lançamento com verba oficial. Não passou → ajustar oferta/perfil (fase 2: automação/IA ou gestores de tráfego, que a Criativa alcança melhor) sem gasto de mídia.
+6. **Lançamento oficial:** campanha Meta (`marketing:campaign-plan`), métricas na etapa 10.
+
+**Ponto de atenção:** sem rede no nicho, a taxa de resposta da abordagem fria é a maior incerteza. Se a resposta for baixa, a hipótese v1 (gestores de tráfego/social, que a Criativa já alcança) volta a ser a opção mais barata de testar.
 
 ## Status
 - [x] Pasta, pesquisa, ranking
